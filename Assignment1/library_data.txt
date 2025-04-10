@@ -1,0 +1,7 @@
+===== Library Data =====
+
+Books:
+Title: Java, ISBN: 1000, Available: No
+
+Members:
+Name: Henry, ID: 2000, Borrowed Books: [1000]
